@@ -35,4 +35,5 @@ pnpm approve-builds
 pnpm dev
 
 This starts the local dev server at http://localhost:3000.
+<img width="1912" height="1093" alt="Screenshot 2025-08-02 220954" src="https://github.com/user-attachments/assets/c2c6ba88-e8f9-4433-98bf-bfed936b8183" />
 
